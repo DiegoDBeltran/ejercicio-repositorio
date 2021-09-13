@@ -5,3 +5,5 @@ Un repositorio para practicar con GIT
 → primer commit en feature1
 → segundo commit en feature1
 → commit del primer merge en master
+→ commit de feature2 
+→ merge master final /commit final
